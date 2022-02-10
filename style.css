@@ -1,0 +1,39 @@
+body{
+    background-color: navajowhite;
+}
+h1{
+    background:lightseagreen;
+    color: darkviolet;
+}
+.six{
+    background:lightsteelblue;
+    color: darkblue;
+}
+h2{
+    background:magenta ;
+    color: lightslategray;
+}
+.seven{
+    background:mediumseagreen ;
+    color: deepskyblue;
+}
+.one{
+    background: blueviolet;
+    color:deepskyblue;
+}
+.two{
+    background: green;
+    color: rgb(14, 13, 13);
+}
+.three{
+    background: teal;
+    color:red;
+}
+.four{
+    background: darkgoldenrod;
+    color:darkgreen;
+}
+.five{
+    background: darkseagreen;
+    color:darkslateblue;
+}
